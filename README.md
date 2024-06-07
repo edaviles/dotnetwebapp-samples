@@ -1,1 +1,1 @@
-# dotnetwebapp-samples-
+# Samples App for demos
